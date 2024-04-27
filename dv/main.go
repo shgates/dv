@@ -1,8 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/shgates/dv/dv/cmd"
 
 func main() {
-
-	fmt.Println("Todo")
+	cmd.Execute()
 }
